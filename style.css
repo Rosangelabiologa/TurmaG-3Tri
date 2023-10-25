@@ -1,13 +1,13 @@
 body {background-color: aliceblue ;}
 #título{
-    font-size: 50px;
+    font-size: 20px;
     text-align: center;
     color:blue;
 
 }
 
 .texto {
-    font-size: 300px;
+    font-size: 40px;
     text-align: justify;
     color: black;
 }
