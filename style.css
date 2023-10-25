@@ -1,12 +1,12 @@
 body {background-color: aliceblue ;}
-h1{
+#título{
     font-size: 30px;
     text-align: center;
     color:blue;
 
 }
 
-p{
+. texto {
     font-size: 20px;
     text-align: justify;
     color: black;
