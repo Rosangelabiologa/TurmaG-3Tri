@@ -6,6 +6,13 @@ body {
     color:rgb(192, 20, 123);
 
 }
+header {
+    padding: 20px;
+    background-color: black;
+    border-bottom: 5px solid;
+    font-size: 35px;
+    color: black;
+}
 
 .texto {
     font-size: 30px;
